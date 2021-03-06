@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning HTML, CSS, Javascript, Node
+- 🌱 I’m currently learning HTML, CSS, Javascript, NodeJS
 - 📫 How to reach me: @victor.h.r
