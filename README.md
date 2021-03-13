@@ -1,7 +1,7 @@
 ### Hello Everyone! 🙋🏻‍♂️
 
 
-- 💻 Work as developer has two years, actually using Delphi as my main programming language.
+- 💻 Work as developer desktop has been two years, actually using Delphi as my main programming language.
 - 👨‍💻 However i’m currently learning Web Developing, focused on Back-End with Node.js.
 - 📫 How to reach me: @victor.h.r
 
